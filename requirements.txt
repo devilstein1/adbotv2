@@ -1,0 +1,5 @@
+Telethon
+telebot
+pytz
+requests
+python-cfonts
